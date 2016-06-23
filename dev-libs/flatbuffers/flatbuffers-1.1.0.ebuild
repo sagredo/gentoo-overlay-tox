@@ -59,3 +59,5 @@ src_install() {
 	   doins java/flatbuffers.jar
 	fi
 }
+
+
